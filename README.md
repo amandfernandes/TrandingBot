@@ -1,0 +1,2 @@
+# ProjetoCloud
+Trading cryptocurrency bot
